@@ -7,7 +7,7 @@ function srednia($a, $b)
 
 function srednia_wazona($a, $b)
 {
-	return 0.1 * $a + 0.9 * $b;
+	return 0.2 * $a + 0.8 * $b;
 }
 
 ?>
